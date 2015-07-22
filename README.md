@@ -1,2 +1,2 @@
 # mongodb-php
-in my local computer i have 30GB of mongoDB database. i made a php script which turn faster and search faster in large dataset
+I have created a php AJAX search engine which works efficiently and faster with mongoDB large(big-data) database(about 30GB).
